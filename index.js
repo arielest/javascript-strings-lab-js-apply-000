@@ -1,3 +1,5 @@
+$ learn [command] [options]
+
 var greeting = " Helo, everybody!";
 
 var specialGuest = "Neil deGrasse Tyson";
